@@ -1,215 +1,215 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
-UI_20150317_000002	{@st43}Attribute List {/}	{@st43}특성 목록{/}				
-UI_20150317_000003	{@st59}Close{/}	{@st59}특성리스트를 닫습니다{/}				
-UI_20150317_000004	{@st43}Learn Attributes{/}	{@st43}특성 배우기{/}				
-UI_20150317_000005	{@st59}Close{/}	{@st59}특성창을 닫습니다{/}				
-UI_20150317_000006	{@st41b}Silver{/}	{@st41b}소지금{/}				
-UI_20150317_000007	My Achievements	나의 업적				
-UI_20150317_000008	Server Ranking	서버 랭킹				
-UI_20150317_000009	{@st59}An unexpected event is available.{/}	{@st59}돌발이벤트가 있습니다{/}				
-UI_20150317_000010	{@st59}There is a new Help message{/}	{@st59}도움말이 있습니다{/}				
-UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}	{@st41}어떤 종류의 화살을 제작하겠습니까?{/}				
-UI_20150317_000012	{@st41b}Once{/}	{@st41b}한번만{/}				
-UI_20150317_000013	{@st41b}All{/}	{@st41b}모두{/}				
-UI_20150317_000014	{@st41b}Pause{/}	{@st41b}중단{/}				
-UI_20150317_000015	{@st43}Adventure Journal{/}	{@st43}모험일지{/}				
-UI_20150317_000016	{@st43}Auction House{/}	{@st43}경매장{/}				
-UI_20150317_000017	{@st59}Close{/}	{@st59}경매장을 닫습니다{/}				
-UI_20150317_000018	{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}				
-UI_20150317_000019	{@st43}{s22}Item Auction{/}	{@st43}{s22}아이템 경매{/}				
-UI_20150317_000020	{@st59}Close{/}	{@st59}퀘스트 정보를 닫습니다{/}				
-UI_20150317_000021	Availest	아베일레스트				
-UI_20150317_000022	{@st41b}Remaining Time	{@st41b}남은 시간				
-UI_20150317_000023	3 hours 16 minutes	3시간 16분				
-UI_20150317_000024	{@st41b}Starting Price	{@st41b}시작가				
-UI_20150317_000025	{@st41b}Bids	{@st41b}입찰수				
-UI_20150317_000026	{@st41b}Current Price	{@st41b}현재가				
-UI_20150317_000027	{@st41b}Bidding Price	{@st41b}입찰금				
-UI_20150317_000028	{@st41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}	{@st41b}최소 {@st57}%s {@st41b}실버부터 입찰가능{/}				
-UI_20150317_000029	{@st41b}Bid{/}	{@st41b}입찰{/}				
-UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}	{@st43b}바로 구매!{nl}{img icon_item_silver 20 20}{@st57}%s{/}				
-UI_20150317_000031	{@st44}Permission Settings{/}	{@st44}권한설정{/}				
-UI_20150317_000032	{@st45}Name: %s{/}	{@st45}이름:%s{/}				
-UI_20150317_000033	{@st45}Party Storage{/}	{@st45}파티 창고{/}				
-UI_20150317_000034	{@st49}None	{@st49}없음				
-UI_20150317_000035	{@st49}Store	{@st49}넣기				
-UI_20150317_000036	{@st49}Retrieve	{@st49}가져오기				
-UI_20150317_000037	{@st45}Survey{/}	{@st45}설문{/}				
-UI_20150317_000038	{@st49}Create	{@st49}작성				
-UI_20150317_000039	{@st49}Delete	{@st49}삭제				
-UI_20150317_000040	{@st44}Save{/}	{@st44}저장{/}				
-UI_20150317_000041	{@st44}Cancel{/}	{@st44}취소{/}				
-UI_20150317_000042	{@st43}{s22}Hairstyle Shop{/}	{@st43}{s22}미용실{/}				
-UI_20150317_000043	{@st59}Previous Hairstyle{/}	{@st59}이전 머리{/}				
-UI_20150317_000044	{@st59}Next Hairstyle{/}	{@st59}다음 머리{/}				
-UI_20150317_000045	{@st41b} Change {s18} (100 TPs required) {/}	{@st41b}변경{s18}(NXP 100 필요){/}				
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}	{@st59}선택한 헤어로 변경합니다.{/}				
-UI_20150317_000047	{@st41}Cancel	{@st41}해약				
-UI_20150317_000048	{@st43}Black Market{/}	{@st43}블랙 마켓{/}				
-UI_20150317_000049	Book Name	책이름				
-UI_20150317_000050	{@St59}Stop Reading{/}	{@st59}독서를 그만둡니다{/}				
-UI_20150317_000051	{@st59}Previous Page{/}	{@st59}이전 페이지{/}				
-UI_20150317_000052	{@st59}Next Page{/}	{@st59}다음페이지{/}				
-UI_20150317_000053	{@st47}%s appeared!	{@st47}%s 등장!!				
-UI_20150317_000054	{@st43}Score{/}	{@st43}스코어{/}				
-UI_20150317_000055	Damage Received	받은 데미지				
-UI_20150317_000056	Technique Bonus	테크닉 보너스				
-UI_20150317_000057	Evasion Bonus	회피 보너스				
-UI_20150317_000058	Clear Time	클리어 시간				
-UI_20150317_000059	Total Score	총 점수				
-UI_20150317_000060	{@st42}Elapsed Time	{@st42}경과 시간				
-UI_20150317_000061	10 minutes	10분				
-UI_20150317_000062	10 seconds	10초				
-UI_20150317_000063	{@st44}Complete	{@st44}마감하기				
-UI_20150317_000064	{@st59}Close{/}	{@st59}자판기를 닫습니다{/}				
-UI_20150317_000065	{@st43}Buff Vending Machine	{@st43}버프 자판기				
-UI_20150317_000066	Vending Machine Name	자판기 이름				
-UI_20150317_000067	{@st43}Register	{@st43}등록				
-UI_20150317_000068	{@st43}Cancel	{@st43}취소				
-UI_20150317_000069	Buff Vending Machine	버프 자판기				
+UI_20150317_000001	{@st41b}Aprender atributos{nl}de los maestros de cada clase.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
+UI_20150317_000003	{@st59}Cerrar{/}	{@st59}특성리스트를 닫습니다{/}				
+UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
+UI_20150317_000005	{@st59}Cerrar{/}	{@st59}특성창을 닫습니다{/}				
+UI_20150317_000006	{@st41b}Monedas de Plata{/}	{@st41b}소지금{/}				
+UI_20150317_000007	Mis Logros	나의 업적				
+UI_20150317_000008	Puntuació del Servidor	서버 랭킹				
+UI_20150317_000009	{@st59}Un evento inesperado está disponible.{/}	{@st59}돌발이벤트가 있습니다{/}				
+UI_20150317_000010	{@st59}Tienes un nuevo mensaje de Ayuda{/}	{@st59}도움말이 있습니다{/}				
+UI_20150317_000011	{@st41}Estás seguro de crear este tipo de flecha?{/}	{@st41}어떤 종류의 화살을 제작하겠습니까?{/}				
+UI_20150317_000012	{@st41b}Una vez{/}	{@st41b}한번만{/}				
+UI_20150317_000013	{@st41b}Todas{/}	{@st41b}모두{/}				
+UI_20150317_000014	{@st41b}Pausar{/}	{@st41b}중단{/}				
+UI_20150317_000015	{@st43}Diario de Aventuras{/}	{@st43}모험일지{/}				
+UI_20150317_000016	{@st43}Casa de Subastas{/}	{@st43}경매장{/}				
+UI_20150317_000017	{@st59}Cerrar{/}	{@st59}경매장을 닫습니다{/}				
+UI_20150317_000018	{@st41b}Objetos Vendidos : ×%s, Objetos sin Vender : ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}				
+UI_20150317_000019	{@st43}{s22}Subasta de Objetos{/}	{@st43}{s22}아이템 경매{/}				
+UI_20150317_000020	{@st59}Cerrar{/}	{@st59}퀘스트 정보를 닫습니다{/}				
+UI_20150317_000021	Disponible	아베일레스트				
+UI_20150317_000022	{@st41b}Tiempo Restante	{@st41b}남은 시간				
+UI_20150317_000023	3 horas 16 minutos	3시간 16분				
+UI_20150317_000024	{@st41b}Precio Inicial	{@st41b}시작가				
+UI_20150317_000025	{@st41b}Pujas	{@st41b}입찰수				
+UI_20150317_000026	{@st41b}Precio Actual	{@st41b}현재가				
+UI_20150317_000027	{@st41b}Precio de Puja	{@st41b}입찰금				
+UI_20150317_000028	{@st41b}Puja Minima de {@st57}%s{@st41b} moneda(s) de plata{/}	{@st41b}최소 {@st57}%s {@st41b}실버부터 입찰가능{/}				
+UI_20150317_000029	{@st41b}Pujar{/}	{@st41b}입찰{/}				
+UI_20150317_000030	{@st43b}Comprar Ahora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}	{@st43b}바로 구매!{nl}{img icon_item_silver 20 20}{@st57}%s{/}				
+UI_20150317_000031	{@st44}Configuración de Permisos{/}	{@st44}권한설정{/}				
+UI_20150317_000032	{@st45}Nombre: %s{/}	{@st45}이름:%s{/}				
+UI_20150317_000033	{@st45}Almacen del Grupo{/}	{@st45}파티 창고{/}				
+UI_20150317_000034	{@st49}Nada	{@st49}없음				
+UI_20150317_000035	{@st49}Guardar	{@st49}넣기				
+UI_20150317_000036	{@st49}Retirar	{@st49}가져오기				
+UI_20150317_000037	{@st45}Encuesta{/}	{@st45}설문{/}				
+UI_20150317_000038	{@st49}Crear	{@st49}작성				
+UI_20150317_000039	{@st49}Borrar	{@st49}삭제				
+UI_20150317_000040	{@st44}Guardar{/}	{@st44}저장{/}				
+UI_20150317_000041	{@st44}Cancelar{/}	{@st44}취소{/}				
+UI_20150317_000042	{@st43}{s22}Tienda de Peinados{/}	{@st43}{s22}미용실{/}				
+UI_20150317_000043	{@st59}Peinado Anterior{/}	{@st59}이전 머리{/}				
+UI_20150317_000044	{@st59}Peinado Siguiente{/}	{@st59}다음 머리{/}				
+UI_20150317_000045	{@st41b} Cambiar {s18} (Requiere 100 TPs) {/}	{@st41b}변경{s18}(NXP 100 필요){/}				
+UI_20150317_000046	{@st59}Cambiar al peinado seleccionado.{/}	{@st59}선택한 헤어로 변경합니다.{/}				
+UI_20150317_000047	{@st41}Cancelar	{@st41}해약				
+UI_20150317_000048	{@st43}Mercado Negro{/}	{@st43}블랙 마켓{/}				
+UI_20150317_000049	Nombre del Libro	책이름				
+UI_20150317_000050	{@St59}Dejar de Leer{/}	{@st59}독서를 그만둡니다{/}				
+UI_20150317_000051	{@st59}Página Anterior{/}	{@st59}이전 페이지{/}				
+UI_20150317_000052	{@st59}Página Siguiente{/}	{@st59}다음페이지{/}				
+UI_20150317_000053	{@st47}%s ha aparecido!	{@st47}%s 등장!!				
+UI_20150317_000054	{@st43}Puntuación{/}	{@st43}스코어{/}				
+UI_20150317_000055	Daño Recibido	받은 데미지				
+UI_20150317_000056	Bono por Técnica	테크닉 보너스				
+UI_20150317_000057	Bono por Evasión	회피 보너스				
+UI_20150317_000058	Tardaste	클리어 시간				
+UI_20150317_000059	Puntaje Total	총 점수				
+UI_20150317_000060	{@st42}Tiempo Restante	{@st42}경과 시간				
+UI_20150317_000061	10 minutos	10분				
+UI_20150317_000062	10 segundos	10초				
+UI_20150317_000063	{@st44}Completo	{@st44}마감하기				
+UI_20150317_000064	{@st59}Cerrar{/}	{@st59}자판기를 닫습니다{/}				
+UI_20150317_000065	{@st43}Tienda para Vender Mejoras	{@st43}버프 자판기				
+UI_20150317_000066	Nombre de la Tienda	자판기 이름				
+UI_20150317_000067	{@st43}Registrar	{@st43}등록				
+UI_20150317_000068	{@st43}Cancelar	{@st43}취소				
+UI_20150317_000069	Tienda para Vender Mejoras	버프 자판기				
 UI_20150317_000070	{@st59}Close	{@st59}버프 자판기를 닫습니다.				
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
-UI_20150317_000072	Carriage Menu	마차메뉴				
-UI_20150317_000073	{ol}{s22}Disembark{/}	{ol}{s22}내리기{/}				
-UI_20150317_000074	Casting	캐스팅				
-UI_20150317_000075	{@st43}Game Settings{/}	{@st43}게임설정{/}				
-UI_20150317_000076	{@st64}Use the arrow keys to select a cell!	{@st64}방향키를 입력해 셀을 선택하세요!				
-UI_20150317_000077	{@st43}Advancement Information {/}	{@st43}전직 정보{/}				
-UI_20150317_000078	{@st43}Select Class	{@st43}클래스 선택				
+UI_20150317_000071	{@st59}Tienda para Vender Mejoras{nl} - Puedes pagar monedas de plata para recibir mejoras de otro jugador.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
+UI_20150317_000072	Menú del Carro	마차메뉴				
+UI_20150317_000073	{ol}{s22}Desembarco{/}	{ol}{s22}내리기{/}				
+UI_20150317_000074	Canalizando*	캐스팅				
+UI_20150317_000075	{@st43}Configuración del Juego{/}	{@st43}게임설정{/}				
+UI_20150317_000076	{@st64}Usa las flechas para seleccionar una celda!	{@st64}방향키를 입력해 셀을 선택하세요!				
+UI_20150317_000077	{@st43}Información de Progresión {/}	{@st43}전직 정보{/}				
+UI_20150317_000078	{@st43}Seleccionar Clase	{@st43}클래스 선택				
 UI_20150317_000079	Psychokinesist	사이코키네스스트				
-UI_20150317_000080	{@st42}%s Circle {/}	{@st42}%s 서클{/}				
-UI_20150317_000081	How many circles	몇 서클				
-UI_20150317_000082	Displays a brief description of the class.	클래스에 대한 간단한 설명을 이곳에 표시합니다.				
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}				
-UI_20150317_000084	{@st41b}Support {@sti7}%s{/}	{@st41b}보조    {@sti7}%s{/}				
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}				
-UI_20150317_000086	{@st59}Close{/}	{@st59}클래스 정보 창을 닫습니다{/}				
-UI_20150317_000087	Advancement Alarm	전직 가능 알람				
-UI_20150317_000088	{@st43} Advancement	{@st43}클래스 전직				
-UI_20150317_000089	{@sti7}{s14} Character {/}	{@sti7}{s14}캐릭터{/}				
-UI_20150317_000090	{@sti8}{s14} Class {/}	{@sti8}{s14}클래스{/}				
+UI_20150317_000080	{@st42}%s Circulo {/}	{@st42}%s 서클{/}				
+UI_20150317_000081	Cuantos circulos	몇 서클				
+UI_20150317_000082	Despliega una breve descripción de la clase.	클래스에 대한 간단한 설명을 이곳에 표시합니다.				
+UI_20150317_000083	{@st41b}Ataque {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}				
+UI_20150317_000084	{@st41b}Soporte {@sti7}%s{/}	{@st41b}보조    {@sti7}%s{/}				
+UI_20150317_000085	{@st41b}Dificultad{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}				
+UI_20150317_000086	{@st59}Cerrar{/}	{@st59}클래스 정보 창을 닫습니다{/}				
+UI_20150317_000087	Alerta de Progresión	전직 가능 알람				
+UI_20150317_000088	{@st43} Progresión	{@st43}클래스 전직				
+UI_20150317_000089	{@sti7}{s14} Personaje {/}	{@sti7}{s14}캐릭터{/}				
+UI_20150317_000090	{@sti8}{s14} Clase {/}	{@sti8}{s14}클래스{/}				
 UI_20150317_000091	{@st44}Chat{/}	{@st44}채팅{/}				
 UI_20150317_000092	To. WWWWWWWW and 1 other	To. WWWWWWWW 외 1				
-UI_20150317_000093	General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용				
-UI_20150317_000094	{@st41}All Chat{/}	{@st41}일반 대화{/}				
-UI_20150317_000095	{@59}Quit{/}	{@59}종료하기{/}				
-UI_20150317_000096	{@59}Invite{/}	{@59}초대하기{/}				
-UI_20150317_000097	{@st59}All{/}	{@st59}전체{/}				
+UI_20150317_000093	General: /s chat {nl} Global: /y chat {nl} Grupo: /p chat{nl} Privado: /w Nombre del personaje	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용				
+UI_20150317_000094	{@st41}Todos los Chat{/}	{@st41}일반 대화{/}				
+UI_20150317_000095	{@59}Salir{/}	{@59}종료하기{/}				
+UI_20150317_000096	{@59}Invitar{/}	{@59}초대하기{/}				
+UI_20150317_000097	{@st59}Todos{/}	{@st59}전체{/}				
 UI_20150317_000098	{@st59}Normal (/s chat){/}	{@st59}일반  (/s 할말){/}				
-UI_20150317_000099	{@st59}Shout (/y chat){/}	{@st59}외침  (/y 할말){/}				
-UI_20150317_000100	{@st59}Party (/p chat){/}	{@st59}파티  (/p 할말){/}				
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}	{@st59}귓속말   (/w 팀이름 할말){/}				
-UI_20150317_000102	{@st59}Adjust Chat Window{/}	{@st59}채팅창 크기 조절{/}				
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}	{@st43}{s22}채팅 매크로{/}				
+UI_20150317_000099	{@st59}Global (/y chat){/}	{@st59}외침  (/y 할말){/}				
+UI_20150317_000100	{@st59}Grupo (/p chat){/}	{@st59}파티  (/p 할말){/}				
+UI_20150317_000101	{@st59}Privado (/w team name chat){/}	{@st59}귓속말   (/w 팀이름 할말){/}				
+UI_20150317_000102	{@st59}Adjustar Ventana de Chat{/}	{@st59}채팅창 크기 조절{/}				
+UI_20150317_000103	{@st43}{s22}Macro de Chat{/}	{@st43}{s22}채팅 매크로{/}				
 UI_20150317_000104	{@st43}Macro{/}	{@st43}매크로{/}				
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}				
-UI_20150317_000106	{@st59}Close{/}	{@st59}매크로를 닫습니다{/}				
-UI_20150317_000107	{@st41b}Save{/}	{@st41b}저장{/}				
-UI_20150317_000108	{@st59}Save{/}	{@st59}등록한 내용을 저장합니다{/}				
-UI_20150317_000109	{@st41b}Cancel{/}	{@st41b}취소{/}				
-UI_20150317_000110	{@st59}Cancel{/}	{@st59}등록한 내용을 취소합니다{/}				
-UI_20150317_000111	{@st42}Chat Settings	{@st42}채팅 설정				
-UI_20150317_000112	{@st42}Transparency	{@st42}투명도				
-UI_20150317_000113	Show Chat Balloon	말풍선 표시				
-UI_20150317_000114	Show Shouts on Top	화면 상단에 외치기 내용 표시				
-UI_20150317_000115	{@st43}Cheat List{/}	{@st43}치트리스트{/}				
-UI_20150317_000116	{@st42b}Item{/}	{@st42b}  아이템  {/}				
-UI_20150317_000117	{@st42b}Monster{/}	{@st42b}  몬스터  {/}				
-UI_20150317_000118	{@st42b}Move map{/}	{@st42b}  맵이동  {/}				
-UI_20150317_000119	{@st42b}Combat Order{/}	{@st42b}  전투명령  {/}				
-UI_20150317_000120	{@st41b}Close{/}	{@st41b}닫기{/}				
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.	{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.				
-UI_20150317_000122	{s16}{b}ea	{s16}{b}개				
-UI_20150317_000123	{s16}{b}Lv.	{s16}{b}레벨				
-UI_20150317_000124	{@st41b}Search{/}	{@st41b}검색{/}				
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.	{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.				
-UI_20150317_000126	{s16}{b}ea	{s16}{b}마리				
-UI_20150317_000127	{s16}{b}Select a desired area.	{s16}{b}원하는 지역을 선택하세요				
-UI_20150317_000128	{s18}{b}View Minimap{/}	{s18}{b}미니맵 보기{/}				
-UI_20150317_000129	{@st41b}Tool List{/}	{@st41b}툴 리스트{/}				
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}				
-UI_20150317_000131	{@st59}Close{/}	{@st59}콜렉션 정보를 닫습니다{/}				
-UI_20150317_000132	{@st43}Collection{/}	{@st43}콜렉션{/}				
-UI_20150317_000133	{@st43}Color Spray{/}	{@st43}컬러스프레이{/}				
-UI_20150317_000134	{@st49}Color Spray{/}	{@st49}컬러스프레이{/}				
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Cómo se usa: {nl} 1. Arrastra un ícono de gesto a cualquier ranura de gestos del fondo. {nl} 2. Escribe tu frase y guarda. {nl} 3. Usa el atajo del teclado para hacer el gesto y simultaneamente decir la frase.{/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}				
+UI_20150317_000106	{@st59}Cerrar{/}	{@st59}매크로를 닫습니다{/}				
+UI_20150317_000107	{@st41b}Guardar{/}	{@st41b}저장{/}				
+UI_20150317_000108	{@st59}Guardar{/}	{@st59}등록한 내용을 저장합니다{/}				
+UI_20150317_000109	{@st41b}Cancelar{/}	{@st41b}취소{/}				
+UI_20150317_000110	{@st59}Cancelar{/}	{@st59}등록한 내용을 취소합니다{/}				
+UI_20150317_000111	{@st42}Ajustes del Chat	{@st42}채팅 설정				
+UI_20150317_000112	{@st42}Transparencia	{@st42}투명도				
+UI_20150317_000113	Mostrar Burbuja de Chat	말풍선 표시				
+UI_20150317_000114	Mostrar Mensajes Globales Arriba 화면 상단에 외치기 내용 표시				
+UI_20150317_000115	{@st43}Lista de Trucos{/}	{@st43}치트리스트{/}				
+UI_20150317_000116	{@st42b}Objeto{/}	{@st42b}  아이템  {/}				
+UI_20150317_000117	{@st42b}Monstruo{/}	{@st42b}  몬스터  {/}				
+UI_20150317_000118	{@st42b}Mapa{/}	{@st42b}  맵이동  {/}				
+UI_20150317_000119	{@st42b}Orden de Combate{/}	{@st42b}  전투명령  {/}				
+UI_20150317_000120	{@st41b}Cerrar{/}	{@st41b}닫기{/}				
+UI_20150317_000121	{s16}{b}Crea objetos clickando el botón Crear o con un doble-click.	{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.				
+UI_20150317_000122	{s16}{b}u	{s16}{b}개				
+UI_20150317_000123	{s16}{b}Nv.	{s16}{b}레벨				
+UI_20150317_000124	{@st41b}Buscar{/}	{@st41b}검색{/}				
+UI_20150317_000125	{s16}{b}Invoca monstruos al clickar el boton Crear o con un doble-click.	{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.				
+UI_20150317_000126	{s16}{b}u	{s16}{b}마리				
+UI_20150317_000127	{s16}{b}Selecciona el área deseada.	{s16}{b}원하는 지역을 선택하세요				
+UI_20150317_000128	{s18}{b}Ver minimapa{/}	{s18}{b}미니맵 보기{/}				
+UI_20150317_000129	{@st41b}Lista de Herramientas{/}	{@st41b}툴 리스트{/}				
+UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Adquiere una Baraja de Colección para añadirle objetos coleccionables. {nl} - El atajo de colecciones se activará cuando uses una Baraja de Colección. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}				
+UI_20150317_000131	{@st59}Cerrar{/}	{@st59}콜렉션 정보를 닫습니다{/}				
+UI_20150317_000132	{@st43}Colección{/}	{@st43}콜렉션{/}				
+UI_20150317_000133	{@st43}Rociador de Color{/}	{@st43}컬러스프레이{/}				
+UI_20150317_000134	{@st49}Rociador de Color{/}	{@st49}컬러스프레이{/}				
 UI_20150317_000135	{@st49}Color{/}	{@st49}색상{/}				
-UI_20150317_000136	{@st49}Remaining{/}	{@st49}잔량{/}				
-UI_20150317_000137	{@st49}Brush{/}	{@st49}브러쉬{/}				
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}	{@st49}{a END_EDIT_SPRAY}그리기{/}{/}				
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}	{@st49}{a SAVE_EDIT_SPRAY}저장{/}{/}				
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}	{@st49}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
-UI_20150317_000141	{@st49}Close{/}	{@st49}닫기{/}				
-UI_20150317_000142	{@st43}Companion Adoption	{@st43}컴패니언 분양				
-UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}	{@st59}분양 받을 컴패니언의 이름을 입력하세요{/}				
-UI_20150317_000144	{@st41b}Name{/}	{@st41b}이름{/}				
-UI_20150317_000145	{@st41b}Price %s{/}	{@st41b}가격     %s{/}				
-UI_20150317_000146	{@st59}Close{/}	{@st59}컴패니엄 분양 창을 닫습니다{/}				
-UI_20150317_000147	{@st41b}Adopt	{@st41b}분양				
-UI_20150317_000148	{@st59}Confirm{/}	{@st59}분양 받을 컴패니언을 결정합니다{/}				
-UI_20150317_000149	{@st43}Companion Shop	{@st43}컴패니언 샵				
-UI_20150317_000150	{@st59}Close{/}	{@st59}컴패니언 상점을 닫습니다{/}				
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}	{@st43}다른 캐릭터 정보{/} {@st42}				
-UI_20150317_000152	{@st59}Close{/}	{@st59}캐릭터 정보를 닫습니다{/}				
-UI_20150317_000153	{@st41b}Information	{@st41b}정보				
-UI_20150317_000154	{@st41b}Record	{@st41b}기록				
-UI_20150317_000155	Team Name	팀이륨				
-UI_20150317_000156	Character Name	캐릭이륨				
-UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}	{#ffff00}%s{/}랭크 %s {#ffff00}%s{/}레벨				
-UI_20150317_000158	Warrior	젼샤				
-UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)	모험지수 {#ffff00}%s{/} ({#ffff00}%s{/}위/%s)				
-UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})	모험지수 {#ffff00}%s{/} ({#ffff00}Unranked{/})				
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}	업적달성 {#ffff00}%s{/}개				
-UI_20150317_000162	Settings	설정				
-UI_20150317_000163	Clear the tab title to delete the tab.	탭 제목을 지우고 확인하면 탭이 삭제됩니다				
-UI_20150317_000164	{@st49}All{/}	{@st49}전체{/}				
-UI_20150317_000165	{@st49}System{/}	{@st49}시스템{/}				
-UI_20150317_000166	{@st49}Talk{/}	{@st49}대화{/}				
-UI_20150317_000167	{@st49}Combat{/}	{@st49}전투{/}				
-UI_20150317_000168	{@st49}Item{/}	{@st49}아이템{/}				
-UI_20150317_000169	{@st43}Credits{/}	{@st43}크레딧{/}				
-UI_20150317_000170	{@st43}Lock Target settings {/}	{@st43}타겟 고정 설정 중{/}				
-UI_20150317_000171	NPC Name	엔피씨이름				
-UI_20150317_000172	Compare	비교				
-UI_20150317_000173	Illustration	일러스트				
-UI_20150317_000174	Select a conversation	대화 선택				
-UI_20150317_000175	Text Help	텍스트 헬프				
-UI_20150317_000176	{@st41}Item Crafting{/}	{@st41}아이템 제조{/}				
-UI_20150317_000177	{@st45tw2}Crafting the item...	{@st45tw2}아이템 제작 중...				
-UI_20150317_000178	%r seconds	%r 초				
-UI_20150317_000179	{@st41}Cancel{/}	{@st41}취소{/}				
-UI_20150317_000180	{@st45tw2}Quantity{/}	{@st45tw2}수량 {/}				
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?	{@st45tw2}아이템을 만드시겠습니까?				
-UI_20150317_000182	{@st41}Confirm{/}	{@st41}결정{/}				
-UI_20150317_000183	Quest Information	퀘스트 정보				
-UI_20150317_000184	{@st59}Cancel Trade{/}	{@st59}거래를취소합니다{/}				
-UI_20150317_000185	{@st43}Personal Trade{/}	{@st43}개인 거래{/}				
-UI_20150317_000186	My Trading List	내 거래 목록				
-UI_20150317_000187	Silver : %s	실버 : %s				
-UI_20150317_000188	Enter	입력				
-UI_20150317_000189	{@st41}Accept	{@st41}수락				
-UI_20150317_000190	{@st41}Confirm	{@st41}최종확인				
-UI_20150317_000191	Other Player's (%s) Trading List	상대방(%s) 거래 목록				
-UI_20150317_000192	Other Player's Name	상대방이름				
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}	{s18}{ol}{gr gradation1}필드 이벤트{/}				
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?	{s20}{ol}부베족을 물리쳐라! 참가하시겠습니까?				
-UI_20150317_000195	{s20}{ol}%s Would you like to join?	{s20}{ol}%s 참가하시겠습니까?				
-UI_20150317_000196	{s20}{ol}Participants : (1/5)	{s20}{ol}참가 인원 : (1/5)				
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)	{s20}{ol}참가 인원 : (%s/%s)				
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.	{s20}{ol}1초 후 게임이 시작됩니다.				
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.	{s20}{ol}%s초 후 게임이 시작됩니다.				
-UI_20150317_000200	Do not show this anymore for today.	오늘 하루 보지 않기.				
-UI_20150317_000201	Do not show Field Events.	필드 이벤트를 보지 않습니다.				
-UI_20150317_000202	Join Game	게임 참여				
-UI_20150317_000203	Start a game with other players.	플레이어들과 게임을 시작합니다.				
-UI_20150317_000204	Decline game invite.	게임 참여를 하지 않습니다.				
-UI_20150317_000205	Spray Presets	스프레이 프리셋				
-UI_20150317_000206	{@st49}Select{/}	{@st49}선택{/}				
-UI_20150317_000207	{@st49}Cancel{/}	{@st49}취소{/}				
-UI_20150317_000208	{@st49}Delete{/}	{@st49}삭제{/}				
-UI_20150317_000209	Enter a file name to save.	저장할 파일의 이름을 입력합니다.				
-UI_20150317_000210	{@st43}Friends	{@st43}친구				
-UI_20150317_000211	{@st59}Close{/}	{@st59}친구 목록를 닫습니다{/}				
-UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}	{@st59b}친구{nl}{@st59s} - 친구 관계는 계정 사이에 생성{nl} - 목록 탭에서 친구들의 상태 확인/삭제 가능{nl} - 관리 탭에서 초대, 거절, 차단 등의 내용을 확인{/}				
+UI_20150317_000136	{@st49}Restante{/}	{@st49}잔량{/}				
+UI_20150317_000137	{@st49}Pincel{/}	{@st49}브러쉬{/}				
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dibujar{/}{/}	{@st49}{a END_EDIT_SPRAY}그리기{/}{/}				
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}	{@st49}{a SAVE_EDIT_SPRAY}저장{/}{/}				
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}	{@st49}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
+UI_20150317_000141	{@st49}Cerrar{/}	{@st49}닫기{/}				
+UI_20150317_000142	{@st43}Adoptar Compañero	{@st43}컴패니언 분양				
+UI_20150317_000143	{@st59}Ingresa el nombre de tu nuevo compañero {/}	{@st59}분양 받을 컴패니언의 이름을 입력하세요{/}				
+UI_20150317_000144	{@st41b}Nombre{/}	{@st41b}이름{/}				
+UI_20150317_000145	{@st41b}Precio %s{/}	{@st41b}가격     %s{/}				
+UI_20150317_000146	{@st59}Cerrar{/}	{@st59}컴패니엄 분양 창을 닫습니다{/}				
+UI_20150317_000147	{@st41b}Adoptar	{@st41b}분양				
+UI_20150317_000148	{@st59}Confirmar{/}	{@st59}분양 받을 컴패니언을 결정합니다{/}				
+UI_20150317_000149	{@st43}Tienda de Compañeros	{@st43}컴패니언 샵				
+UI_20150317_000150	{@st59}Cerrar{/}	{@st59}컴패니언 상점을 닫습니다{/}				
+UI_20150317_000151	{@st43}Información de Otros Personajes{/}{@st42}	{@st43}다른 캐릭터 정보{/} {@st42}				
+UI_20150317_000152	{@st59}Cerrar{/}	{@st59}캐릭터 정보를 닫습니다{/}				
+UI_20150317_000153	{@st41b}Información	{@st41b}정보				
+UI_20150317_000154	{@st41b}Récord	{@st41b}기록				
+UI_20150317_000155	Nombre del Grupo	팀이륨				
+UI_20150317_000156	Nombre del Personaje	캐릭이륨				
+UI_20150317_000157	Circulo {#ffff00}%s{/} %s Nv. {#ffff00}%s{/}	{#ffff00}%s{/}랭크 %s {#ffff00}%s{/}레벨				
+UI_20150317_000158	Guerrero	젼샤				
+UI_20150317_000159	Índice de Aventura {#ffff00}%s{/} (Posición{#ffff00}%s{/}/%s)	모험지수 {#ffff00}%s{/} ({#ffff00}%s{/}위/%s)				
+UI_20150317_000160	Índice de Aventura {#ffff00}%s{/} ({#ffff00}Sin puntuación{/})	모험지수 {#ffff00}%s{/} ({#ffff00}Unranked{/})				
+UI_20150317_000161	Total de Logros : {#ffff00}%s{/}	업적달성 {#ffff00}%s{/}개				
+UI_20150317_000162	Ajustes	설정				
+UI_20150317_000163	Borra el titulo de la pestaña para borrarla.	탭 제목을 지우고 확인하면 탭이 삭제됩니다				
+UI_20150317_000164	{@st49}Todos{/}	{@st49}전체{/}				
+UI_20150317_000165	{@st49}Sistema{/}	{@st49}시스템{/}				
+UI_20150317_000166	{@st49}Hablar{/}	{@st49}대화{/}				
+UI_20150317_000167	{@st49}Combatir{/}	{@st49}전투{/}				
+UI_20150317_000168	{@st49}Objeto{/}	{@st49}아이템{/}				
+UI_20150317_000169	{@st43}Créditos{/}	{@st43}크레딧{/}				
+UI_20150317_000170	{@st43}Ajustes de Bloqueo de Objetivo {/}	{@st43}타겟 고정 설정 중{/}				
+UI_20150317_000171	Nombre del PNJ	엔피씨이름				
+UI_20150317_000172	Comparar	비교				
+UI_20150317_000173	Ilustración	일러스트				
+UI_20150317_000174	Elije una conversación	대화 선택				
+UI_20150317_000175	Ayuda de Texto	텍스트 헬프				
+UI_20150317_000176	{@st41}Creación de Objetos{/}	{@st41}아이템 제조{/}				
+UI_20150317_000177	{@st45tw2}Creando el Objeto...	{@st45tw2}아이템 제작 중...				
+UI_20150317_000178	%r segundos	%r 초				
+UI_20150317_000179	{@st41}Cancelar{/}	{@st41}취소{/}				
+UI_20150317_000180	{@st45tw2}Cantidad{/}	{@st45tw2}수량 {/}				
+UI_20150317_000181	{@st45tw2}Deseas crear este objeto?	{@st45tw2}아이템을 만드시겠습니까?				
+UI_20150317_000182	{@st41}Confirmar{/}	{@st41}결정{/}				
+UI_20150317_000183	Información de Misión	퀘스트 정보				
+UI_20150317_000184	{@st59}Cancelar Intercambio{/}	{@st59}거래를취소합니다{/}				
+UI_20150317_000185	{@st43}Inbtercambio 1:1{/}	{@st43}개인 거래{/}				
+UI_20150317_000186	Mi lista de Intercambio	내 거래 목록				
+UI_20150317_000187	Monedas de Plata : %s	실버 : %s				
+UI_20150317_000188	Ingresar	입력				
+UI_20150317_000189	{@st41}Acceptar	{@st41}수락				
+UI_20150317_000190	{@st41}Confirmar	{@st41}최종확인				
+UI_20150317_000191	Lista de Intercambio (%s) del otro jugador	상대방(%s) 거래 목록				
+UI_20150317_000192	Nombre del Otro Jugador	상대방이름				
+UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de Campo{/}	{s18}{ol}{gr gradation1}필드 이벤트{/}				
+UI_20150317_000194	{s20}{ol}Derrotar a la Tribu Vubbe! Deseas unirte?	{s20}{ol}부베족을 물리쳐라! 참가하시겠습니까?				
+UI_20150317_000195	{s20}{ol}%s Deseas unirte?	{s20}{ol}%s 참가하시겠습니까?				
+UI_20150317_000196	{s20}{ol}Participantes : (1/5)	{s20}{ol}참가 인원 : (1/5)				
+UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)	{s20}{ol}참가 인원 : (%s/%s)				
+UI_20150317_000198	{s20}{ol}El juego comenzará en 1 segundo.	{s20}{ol}1초 후 게임이 시작됩니다.				
+UI_20150317_000199	{s20}{ol}El juego comenzará en %s segundos.	{s20}{ol}%s초 후 게임이 시작됩니다.				
+UI_20150317_000200	No volver a mostrar esto por hoy.	오늘 하루 보지 않기.				
+UI_20150317_000201	No mostrar Eventos de Campo.	필드 이벤트를 보지 않습니다.				
+UI_20150317_000202	Unirse al Juego	게임 참여				
+UI_20150317_000203	Iniciar un juego con otros jugadores.	플레이어들과 게임을 시작합니다.				
+UI_20150317_000204	Declinar invitación a jugar	게임 참여를 하지 않습니다.				
+UI_20150317_000205	Ajustes por Defecto del Rociador	스프레이 프리셋				
+UI_20150317_000206	{@st49}Seleccionar{/}	{@st49}선택{/}				
+UI_20150317_000207	{@st49}Cancelar{/}	{@st49}취소{/}				
+UI_20150317_000208	{@st49}Borrar{/}	{@st49}삭제{/}				
+UI_20150317_000209	Ingresa un nombre de archivo para guardar.	저장할 파일의 이름을 입력합니다.				
+UI_20150317_000210	{@st43}Amigos	{@st43}친구				
+UI_20150317_000211	{@st59}Cerrar{/}	{@st59}친구 목록를 닫습니다{/}				
+UI_20150317_000212	{@st59b}Amigos{nl}{@st59s} - Hazte amigo de otros jugadores en el juego. {nl} - Puedes revisar el estado de tus amigos en la Pestaña de Amigos. {nl} - En la pestaña de organizar, puedes invitar, declinar o bloquear a tus amigos. {/}	{@st59b}친구{nl}{@st59s} - 친구 관계는 계정 사이에 생성{nl} - 목록 탭에서 친구들의 상태 확인/삭제 가능{nl} - 관리 탭에서 초대, 거절, 차단 등의 내용을 확인{/}				
 UI_20150317_000213	{@st41b}Show Online{/}	{@st41b}접속한 친구만 보기{/}				
 UI_20150317_000214	{@st41b}List	{@st41b}목록				
 UI_20150317_000215	{@st41b}Manage	{@st41b}관리				
@@ -224,7 +224,7 @@ UI_20150317_000223	Guild Mission	길드미션
 UI_20150317_000224	Members Online	접속중인 구성원 수				
 UI_20150317_000225	{@st44}Create Guild{/}	{@st44}길드생성{/}				
 UI_20150317_000226	{@st42}Create{/}	{@st42}생성{/}				
-UI_20150317_000227	{@st42}Close{/}	{@st42}닫기{/}				
+UI_20150317_000227	{@st42}Cerrar{/}	{@st42}닫기{/}				
 UI_20150317_000228	{@st42}All{/}	{@st42}전체{/}				
 UI_20150317_000229	{@st42}Today's Rankings{/}	{@st42}오늘랭킹{/}				
 UI_20150317_000230	{@st42}Weekly Rankings{/}	{@st42}주간랭킹{/}				
@@ -240,7 +240,7 @@ UI_20150317_000239	Close the Hall of Fame	명예의 전당을 닫습니다
 UI_20150317_000240	Enter the ID to search	검색할 ID를 입력합니다				
 UI_20150317_000241	{@st59} Stamina {/}	{@st59}스태미나{/}				
 UI_20150317_000242	{@st43}Help List{/}	{@st43}도움말 목록{/}				
-UI_20150317_000243	{@st59}Close{/}	{@st59}도움말 목록 창을 닫습니다{/}				
+UI_20150317_000243	{@st59}Cerrar{/}	{@st59}도움말 목록 창을 닫습니다{/}				
 UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}	{@st59b}도움말 목록{nl}{@st59s} - 읽었던 도움말들을 목록에서 다시 확인 가능{nl} - 원하는 항목을 선택해서 상세 보기{/}				
 UI_20150317_000245	{@st43}{s22}Help{/}	{@st43}{s22}도움말{/}				
 UI_20150317_000246	{@st47_b}{b}Help Topics{/}	{@st47_b}{b}도움말 제목{/}				
@@ -253,7 +253,7 @@ UI_20150317_000252	{@st59}Confirm {/}	{@st59}입력 내용을 확인합니다{/}
 UI_20150317_000253	{@st41b}Close	{@st41b}닫기				
 UI_20150317_000254	{@st59}Cancel {/}	{@st59}입력을 취소합니다{/}				
 UI_20150317_000255	{@st43}Warp{/}	{@st43}워프{/}				
-UI_20150317_000256	{@st59}Close{/}	{@st59}워프 창을 닫습니다{/}				
+UI_20150317_000256	{@st59}Cerrar{/}	{@st59}워프 창을 닫습니다{/}				
 UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}	{@st59b}워프{nl}{@st59s} - 자신이 방문한 지역으로 워프할 수 있는 시스템{nl} - 워프가 2개이상일때 워프 기능 활성화{nl}{/}				
 UI_20150317_000258	{@st41}Current Location : %s{/}	{@st41}현재 위치 : %s{/}				
 UI_20150317_000259	{@st43}{s22}Warp{/}	{@st43}{s22}워프{/}				
@@ -262,7 +262,7 @@ UI_20150317_000261	What about Siauliai	사울레이 어쩌고
 UI_20150317_000262	Coin Consumed : 0	소모 코인 : 0				
 UI_20150317_000263	Intro	인트로				
 UI_20150317_000264	{@st43}Inventory{/}	{@st43}인벤토리{/}				
-UI_20150317_000265	{@st59}Close{/}	{@st59}인벤토리를 닫습니다{/}				
+UI_20150317_000265	{@st59}Cerrar{/}	{@st59}인벤토리를 닫습니다{/}				
 UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}{/}				
 UI_20150317_000267	{@st59}Hair Costume 1{/}	{@st59}헤어 코스튬1{/}				
 UI_20150317_000268	{@st59}Hair Costume 2{/}	{@st59}헤어 코스튬2{/}				
@@ -280,7 +280,7 @@ UI_20150317_000279	{@st59}Armband{/}	{@st59}암밴드{/}
 UI_20150317_000280	{@st59}Search{/}	{@st59}입력한 이름으로 검색합니다{/}				
 UI_20150317_000281	Weight	무게				
 UI_20150317_000282	{@st43}Equipment Buff{/}	{@st43}장비 버프{/}				
-UI_20150317_000283	{@st59}Close{/}	{@st59}수리 UI를 닫습니다{/}				
+UI_20150317_000283	{@st59}Cerrar{/}	{@st59}수리 UI를 닫습니다{/}				
 UI_20150317_000284	{@st42}Available for Buff	{@st42}버프 가능 장비 목록				
 UI_20150317_000285	{@st42}Consume{/}	{@st42}소모 아이템{/}				
 UI_20150317_000286	{@st42}Run	{@st42}실행				
@@ -288,7 +288,7 @@ UI_20150317_000287	{@st42}Target Item{/}	{@st42}타겟 아이템{/}
 UI_20150317_000288	{@st59}Ring 1{/}	{@st59}링1{/}				
 UI_20150317_000289	{@st43}Item Crafting{/}	{@st43}아이템 제작{/}				
 UI_20150317_000290	{@st42b}Show Craftable Items{/}	{@st42b}재료가 있는 것만 보기{/}				
-UI_20150317_000291	{@st59}Close{/}	{@st59}아이템 제작을 닫습니다{/}				
+UI_20150317_000291	{@st59}Cerrar{/}	{@st59}아이템 제작을 닫습니다{/}				
 UI_20150317_000292	{@st43}{s22}Split Item	{@st43}{s22}아이템 나누기				
 UI_20150317_000293	{@st59}Enter a quantity{/}	{@st59}개수를 입력하세요{/}				
 UI_20150317_000294	Monster HP Bar	몬스터 체력게이지				
@@ -308,7 +308,7 @@ UI_20150317_000307	Rank %s	%s위
 UI_20150317_000308	%s Points	%s점				
 UI_20150317_000309	Profession	직업				
 UI_20150317_000310	Team	팀				
-UI_20150317_000311	{@st59}Close{/}	{@st59}모험일지를 닫습니다{/}				
+UI_20150317_000311	{@st59}Cerrar{/}	{@st59}모험일지를 닫습니다{/}				
 UI_20150317_000312	{@st43}Adventure Journal Ranking{/}	{@st43}모험일지 랭킹{/}				
 UI_20150317_000313	{@st43}{s22}Rank   	{@st43}{s22}랭킹				
 UI_20150317_000314	{@st43}{s22}Name	{@st43}{s22}이름				
@@ -327,7 +327,7 @@ UI_20150317_000326	Defense	방어력
 UI_20150317_000327	Magic Resistance	마법저항력				
 UI_20150317_000328	Critical Attack Rate	치명타율				
 UI_20150317_000329	{@st43}Socket{/}	{@st43}소켓 관리{/}				
-UI_20150317_000330	{@st59}Close{/}	{@st59}소켓 관리를 닫습니다{/}				
+UI_20150317_000330	{@st59}Cerrar{/}	{@st59}소켓 관리를 닫습니다{/}				
 UI_20150317_000331	Please insert your items	아이템을 올려주세요				
 UI_20150317_000332	Potential	포텐셜				
 UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}	소켓 추가 비용 : {#ff9933}%s{/}{nl}젬 추출 비용 : {#ff9933}%s{/}				
@@ -338,7 +338,7 @@ UI_20150317_000337	{@st41}%s %s ea	{@st41}%s  %s 개
 UI_20150317_000338	Area Map	지역 지도				
 UI_20150317_000339	Area Explored : 95.5%	탐사율 : 95.5%				
 UI_20150317_000340	{@st45tw}Area Explored %s% {/}	{@st45tw}탐사율 %s%{/}				
-UI_20150317_000341	{@st59}Close{/}	{@st59}지도를 닫습니다 (M){/}				
+UI_20150317_000341	{@st59}Cerrar{/}	{@st59}지도를 닫습니다 (M){/}				
 UI_20150317_000342	{@st41}Map{/}	{@st41}지도{/}				
 UI_20150317_000343	Shift(clear), Ctrl(mid fill)	시프트(지우기), 컨트롤(중간채우기)				
 UI_20150317_000344	{ol}Title	{ol}제목				
@@ -363,7 +363,7 @@ UI_20150317_000362	{@st42b}Name	{@st42b}이름
 UI_20150317_000363	{@st41b}Retrieve %s	{@st41b}아이템 수령함%s				
 UI_20150317_000364	{@st41b}Sell	{@st41b}판매 등록				
 UI_20150317_000365	{@st41b}Search	{@st41b}검색				
-UI_20150317_000366	{@st59}Close{/}	{@st59}마켓 창을 닫습니다{/}				
+UI_20150317_000366	{@st59}Cerrar{/}	{@st59}마켓 창을 닫습니다{/}				
 UI_20150317_000367	{@st42b}Sort	{@st42b}보기 순서				
 UI_20150317_000368	{@st41b}Purchase	{@st41b}판매중인 아이템				
 UI_20150317_000369	{@st43}{s22}Retrieve	{@st43}{s22}아이템 수령함				
@@ -408,7 +408,7 @@ UI_20150317_000407	{@st41} Item {/}	{@st41} 아이템 {/}
 UI_20150317_000408	{@st41} Achievement {/}	{@st41} 업적 {/}				
 UI_20150317_000409	Object	대상				
 UI_20150317_000410	{@st43}Necronomicon{/}	{@st43}네크로노미콘{/}				
-UI_20150317_000411	{@st59}Close{/}	{@st59}네크로노미콘 UI를 닫습니다{/}				
+UI_20150317_000411	{@st59}Cerrar{/}	{@st59}네크로노미콘 UI를 닫습니다{/}				
 UI_20150317_000412	{@st59}I am too lazy to think.{/}	{@st59}나는 아무 생각이 없다. 왜냐하면 아무 생각이 없기 때문이다.{/}				
 UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}	소환체 : {#ffcc33}%s{/}				
 UI_20150317_000414	Undead Harpy	언데드 하피				
@@ -433,7 +433,7 @@ UI_20150317_000432	Tool for killing monsters	몬스터 죽이기 툴
 UI_20150317_000433	Tool for making a mini-map	미니맵 만들기 툴				
 UI_20150317_000434	Dialogue tool	다이얼로그 툴				
 UI_20150317_000435	{@st43}GM Settings{/}	{@st43}운영자 설정{/}				
-UI_20150317_000436	{@st59}Close{/}	{@st59}파티 정보를 닫습니다{/}				
+UI_20150317_000436	{@st59}Cerrar{/}	{@st59}파티 정보를 닫습니다{/}				
 UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}	{@st59b}파티 정보{nl}{@st59s} - 하단의 파티 생성 버튼을 눌러 스스로 파티 생성 가능{nl} - 다른 유저의 캐릭터 위에서 마우스 우클릭으로 파티 초대 가능{nl} - 설정탭에서 현재 파티의 다양한 설정을 실시간으로 조정{nl} - 파티 목록으로 파티원을 구할때 공개 항목에서 조건 설정{/}				
 UI_20150317_000438	{@st43}Party Information{/}	{@st43}파티 정보{/}				
 UI_20150317_000439	{@st41b}Members{/}	{@st41b}구성{/}				
@@ -475,7 +475,7 @@ UI_20150317_000474	{Gr gradation1}Cancel{/}	{gr gradation1}취소{/}
 UI_20150317_000475	Cancel Action	작업을 취소합니다				
 UI_20150317_000476	{@st43}Companion Info	{@st43}컴패니언 정보				
 UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
-UI_20150317_000478	{@st59}Close{/}	{@st59}컴패니언 정보를 닫습니다{/}				
+UI_20150317_000478	{@st59}Cerrar{/}	{@st59}컴패니언 정보를 닫습니다{/}				
 UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}				
 UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}				
 UI_20150317_000481	{@st41b}EXP{/}	{@st41b}경험치{/}				
@@ -484,14 +484,14 @@ UI_20150317_000483	{@st41b}Affinity{/}	{@st41b}친밀도{/}
 UI_20150317_000484	{@st41b}Attributes and Information	{@st41b}특성 및 정보				
 UI_20150317_000485	{@st43}Companion{/}	{@st43}컴패니언{/}				
 UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}	{@st59b}컴패니언{nl}{@st59s} - 목록에서 원하는 항목을 클릭해서 상세 정보 보기{/}				
-UI_20150317_000487	{@st59}Close{/}	{@st59}컴패니언을 닫습니다{/}				
-UI_20150317_000488	{@st59}Close{/}	{@st59}도움말 창을 닫습니다{/}				
+UI_20150317_000487	{@st59}Cerrar{/}	{@st59}컴패니언을 닫습니다{/}				
+UI_20150317_000488	{@st59}Cerrar{/}	{@st59}도움말 창을 닫습니다{/}				
 UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}	{@st59}도움말{nl} - 도움말 상세 보기{nl} - 다른 항목을 보려면 도움말 목록에서 선택{/}				
 UI_20150317_000490	{@st43}Help{/}	{@st43}도움말{/}				
 UI_20150317_000491	Help Topics	도움말 제목				
 UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s	{ol}{#AAAA00}{s16}진행시간 : %s				
 UI_20150317_000493	{@st43}Poison Pot{/}	{@st43}포이즌 팟{/}				
-UI_20150317_000494	{@st59}Close{/}	{@st59}포이즌 팟 UI를 닫습니다{/}				
+UI_20150317_000494	{@st59}Cerrar{/}	{@st59}포이즌 팟 UI를 닫습니다{/}				
 UI_20150317_000495	{@st59}Need to write{/}	{@st59}작성 필요{/}				
 UI_20150317_000496	Poison Amount: %s	독의 양 : %s				
 UI_20150317_000497	Items that can be used to Craft poison	독 제조에 쓰일 수 있는 아이템				
@@ -506,7 +506,7 @@ UI_20150317_000505	{@st43}Level{/}	{@st43}레벨{/}
 UI_20150317_000506	{@st43}Funds{/}	{@st43}소지금{/}				
 UI_20150317_000507	{@st43}Rate{/}	{@st43}등급{/}				
 UI_20150317_000508	{@st43}PvP Win/Loss Ratio{/}	{@st43}PvP승률{/}				
-UI_20150317_000509	{@st59}Close{/}	{@st59}창을 닫습니다{/}				
+UI_20150317_000509	{@st59}Cerrar{/}	{@st59}창을 닫습니다{/}				
 UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}	{@sti5}총 구매 금액 : %s{/}				
 UI_20150317_000511	{@sti5}Total Amount : %s{/}	{@sti5}총 금액 : %s{/}				
 UI_20150317_000512	{@st41b} Purchase	{@st41b}구매				
@@ -562,7 +562,7 @@ UI_20150317_000561	{@st41b}Increase the number of selections	{@st41b}선택 횟�
 UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}	{@43b}{s22}선택 가능 횟수 : {@st43}%s{/}				
 UI_20150317_000563	shadow_box tentativeremoval	shadow_box 잠정제거				
 UI_20150317_000564	{@st43}Ranking{/}	{@st43}랭킹{/}				
-UI_20150317_000565	{@st59}Close{/}	{@st59}랭킹창을 닫습니다{/}				
+UI_20150317_000565	{@st59}Cerrar{/}	{@st59}랭킹창을 닫습니다{/}				
 UI_20150317_000566	{@st41}Monster Kill Top 100{/}	{@st41}몬스터 킬 Top 100{/}				
 UI_20150317_000567	{@st41}Damage Top 100{/}	{@st41}데미지 Top 100{/}				
 UI_20150317_000568	{@st41}Money Money Top 100{/}	{@st41}머니머니 Top 100{/}				
@@ -575,13 +575,13 @@ UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s	{@st41}{s20}모루 �
 UI_20150317_000575	{@st41} {s20}Price : %s	{@st41}{s20}강화 가격 : %s				
 UI_20150317_000576	{@st41b}Enhance{/}	{@st41b}강화 시작{/}				
 UI_20150317_000577	{@st59}Start Item Enhancement{/}	{@st59}아이템 강화를 시작합니다.{/}				
-UI_20150317_000578	{@st59}Close{/}	{@st59}강화를 닫습니다{/}				
+UI_20150317_000578	{@st59}Cerrar{/}	{@st59}강화를 닫습니다{/}				
 UI_20150317_000579	{@st41b}              Enhance with the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
 UI_20150317_000580	{@st43}Enhancement	{@st43}강화				
 UI_20150317_000581	{@st44}Enhance Item{/}	{@st44}아이템 강화{/}				
 UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!	{s24}{b}{#000000}강화 완료!				
 UI_20150317_000583	{@st41}Enhance Again{/}	{@st41}재강화{/}				
-UI_20150317_000584	{@st41}Close{/}	{@st41}닫기{/}				
+UI_20150317_000584	{@st41}Cerrar{/}	{@st41}닫기{/}				
 UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}	{s18}{ol}{gr gradation1}장비 수리{/}				
 UI_20150317_000586	Equipped Equipment	  착용장비  				
 UI_20150317_000587	Equipment in the Inventory	  소지장비  				
@@ -618,7 +618,7 @@ UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}
 UI_20150317_000618	{@st44}Set Item acquired!{/}	{@st44}세트 아이템 획득!{/}				
 UI_20150317_000619	Please select an item	아이템을 선택해주세요				
 UI_20150317_000620	{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}	{@st59b}상점{nl}{@st59s} - 아이템을 대량 구입하려면 마우스 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
-UI_20150317_000621	{@st59}Close{/}	{@st59}상점을 닫습니다{/}				
+UI_20150317_000621	{@st59}Cerrar{/}	{@st59}상점을 닫습니다{/}				
 UI_20150317_000622	{@st59}First Page{/}	{@st59}처음 페이지{/}				
 UI_20150317_000623	{@st59}Next Page{/}	{@st59}다음 페이지{/}				
 UI_20150317_000624	{@st59}Last Page{/}	{@st59}마지막 페이지{/}				
@@ -655,7 +655,7 @@ UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...	{#ff4400}%s (%s레벨){/}
 UI_20150317_000655	Psychohassle	싸이코해승				
 UI_20150317_000656	%s minute(s) left	%s분 남음				
 UI_20150317_000657	{@st43}Pose{/}	{@st43}포즈{/}				
-UI_20150317_000658	{@st59}Close{/}	{@st59}포즈를 닫습니다{/}				
+UI_20150317_000658	{@st59}Cerrar{/}	{@st59}포즈를 닫습니다{/}				
 UI_20150317_000659	{@st41}Board{/}	{@st41}게시판{/}				
 UI_20150317_000660	{@st41}Trade{/}	{@st41}거래{/}				
 UI_20150317_000661	{@st41}Social Functions{/}	{@st41}사회기능{/}				
@@ -671,7 +671,7 @@ UI_20150317_000670	{@st59}Visit MyPage{/}	{@st59}마이페이지를 방문합니
 UI_20150317_000671	{@st41}Sell{/}	{@st41}판매{/}				
 UI_20150317_000672	{@st59}Sell Item{/}	{@st59}아이템을 판매 합니다{/}				
 UI_20150317_000673	{@st43}Living{/}	{@st43}생 활{/}				
-UI_20150317_000674	{@st59}Close{/}	{@st59}생활을 닫습니다{/}				
+UI_20150317_000674	{@st59}Cerrar{/}	{@st59}생활을 닫습니다{/}				
 UI_20150317_000675	{@st41}View All{/}	{@st41}모두 보기{/}				
 UI_20150317_000676	{@st41}Create Map{/}	{@st41}맵 만들기{/}				
 UI_20150317_000677	{@st41}%s/min (%s in hand){/}	{@st41}%s/분 (%s 보유){/}				
@@ -679,7 +679,7 @@ UI_20150317_000678	Keyboard Warrior	키보드워리어
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}	{@st42}%s{/}{@st42_yellow}레벨{/}				
 UI_20150317_000680	{@st41_yellow}Employment Time	{@st41_yellow}고용시간				
 UI_20150317_000681	{@st43}Graffiti{/}	{@st43}그래피티{/}				
-UI_20150317_000682	{@st59}Close{/}	{@st59}스프레이를 닫습니다{/}				
+UI_20150317_000682	{@st59}Cerrar{/}	{@st59}스프레이를 닫습니다{/}				
 UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}	{@st41b}Tip : 아래 액자내에 그림을 그립니다.{/}				
 UI_20150317_000684	{@st41b}Colors{/}	{@st41b}색상{/}				
 UI_20150317_000685	{@st41b}Quantity{/}	{@st41b}수량{/}				
@@ -753,7 +753,7 @@ UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}	{@st41b}효과음 크기
 UI_20150317_000753	{@st41b}BGM Volume (%s){/}	{@st41b}음악 크기 (%s){/}				
 UI_20150317_000754	{@st41b}Volume (%s){/}	{@st41b}사운드 전체 크기 (%s){/}				
 UI_20150317_000755	{@st43}{b}Select Language{/}	{@st43}언어 선택{/}				
-UI_20150317_000756	{@st59}Close{/}	{@st59}게임 설정창을 닫습니다{/}				
+UI_20150317_000756	{@st59}Cerrar{/}	{@st59}게임 설정창을 닫습니다{/}				
 UI_20150317_000757	{@st41b}Min.requirement Mode {/}	{@st41b}최저 사양 모드{/}				
 UI_20150317_000758	{@st41b}View{/}	{@st41b}보기{/}				
 UI_20150317_000759	{@st59}Credits{/}	{@st59}만든 사람들{/}				
@@ -946,12 +946,12 @@ UI_20150317_000945	{@St59}Logout{/}	{@st59}로그아웃{/}
 UI_20150317_000946	{@St59}Settings{/}	{@st59}게임설정{/}				
 UI_20150317_000947	{@St59}Quit{/}	{@st59}게임종료{/}				
 UI_20150317_000948	{@st43}Lodge Settings{/}	{@st43}숙소 설정{/}				
-UI_20150317_000949	{@st59}Close{/}	{@st59}숙소 설정을 닫습니다{/}				
+UI_20150317_000949	{@st59}Cerrar{/}	{@st59}숙소 설정을 닫습니다{/}				
 UI_20150317_000950	{@St42_b}{s18}{#f5c384}Team Name{/}	{@st42_b}{s18}{#f5c384}팀 이름{/}				
 UI_20150317_000951	{@st59}Enter Team name {/}	{@st59}원하는 팀 이름을 입력하세요{/}				
 UI_20150317_000952	{@st59}Save Team Name{/}	{@st59}팀 이름을 저장합니다{/}				
 UI_20150317_000953	Provisional Delete	systemmenu_vertical 잠정삭제				
-UI_20150317_000954	{@St59}Close{/}	{@st59}배럭 꾸미기를 닫습니다{/}				
+UI_20150317_000954	{@St59}Cerrar{/}	{@st59}배럭 꾸미기를 닫습니다{/}				
 UI_20150317_000955	{@St43}Lodge Decorating{/}	{@st43}배럭 꾸미기{/}				
 UI_20150317_000956	{@St41b}Theme{/}	{@st41b}   테마   {/}				
 UI_20150317_000957	{@St41b}Item Arrangement{/}	{@st41b}   물품배치   {/}				
@@ -1009,7 +1009,7 @@ UI_20150317_001008	{@St44}New Window Name{/}	{@st44}새로운 창 이름{/}
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Character Creation{/}	{@st43}{s40}{gr gradation4}캐릭터 생성{/}				
 UI_20150317_001010	{@St59}Create a character{/}	{@st59}캐릭터를 생성합니다{/}				
 UI_20150317_001011	{@St59}Cancel character creation{/}	{@st59}생성을 취소합니다{/}				
-UI_20150317_001012	{@St59}Close{/}	{@st59}팀 이름 입력을 닫습니다{/}				
+UI_20150317_001012	{@St59}Cerrar{/}	{@st59}팀 이름 입력을 닫습니다{/}				
 UI_20150317_001013	{@St59}Create a team with the entered name{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
 UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
@@ -1313,9 +1313,9 @@ UI_20150323_001312	{@st41}{#ffff00}Lock Target{/}	{@st41}{#ffff00}타겟 고정{
 UI_20150323_001313	{@st43}Refreshment Table	{@st43}배식 테이블				
 UI_20150323_001314	{@st41b}Food type	{@st41b}음식종류				
 UI_20150323_001315	{@st41b}Table	{@st41b}테이블				
-UI_20150323_001316	{@st59}Close{/}	{@st59}배식테이블을 닫습니다{/}				
+UI_20150323_001316	{@st59}Cerrar{/}	{@st59}배식테이블을 닫습니다{/}				
 UI_20150323_001317	{@st43}Grimoire{/}	{@st43}그리모어{/}				
-UI_20150323_001318	{@st59}Close{/}	{@st59}그리모어 UI를 닫습니다{/}				
+UI_20150323_001318	{@st59}Cerrar{/}	{@st59}그리모어 UI를 닫습니다{/}				
 UI_20150323_001319	My Summon Skill	내 소환 스킬				
 UI_20150323_001320	Main Card	메인 카드				
 UI_20150323_001321	Secondary Card	보조카드				
@@ -1329,7 +1329,7 @@ UI_20150323_001328	{@st41b}Settings	{@st41b}설정
 UI_20150323_001329	Unit Price	개당 가격				
 UI_20150323_001330	{@st41b}Material List	{@st41b}재료 목록				
 UI_20150323_001331	{@st43}Gem Roasting{/}	{@st43}젬로스팅{/}				
-UI_20150323_001332	{@st59}Close{/}	{@st59}UI를 닫습니다{/}				
+UI_20150323_001332	{@st59}Cerrar{/}	{@st59}UI를 닫습니다{/}				
 UI_20150323_001333	{@st41b}Repair{/}	{@st41b}손질{/}				
 UI_20150323_001334	{@st41b}Log{/}	{@st41b}로그{/}				
 UI_20150323_001335	Price to receive	받는 가격				
@@ -1355,7 +1355,7 @@ UI_20150323_001354	Shop Name	상점 이름
 UI_20150323_001355	{@st41b}Open Shop	{@st41b}상점열기				
 UI_20150323_001356	{@st59}Start Buy-in Shop{/}	{@st59}매입의뢰상점을 시작합니다{/}				
 UI_20150323_001357	{@st59}Cancel{/}	{@st59}취소합니다{/}				
-UI_20150323_001358	{@st59}Close{/}	{@st59}매입의뢰상점을 닫습니다{/}				
+UI_20150323_001358	{@st59}Cerrar{/}	{@st59}매입의뢰상점을 닫습니다{/}				
 UI_20150323_001359	Request Buy-in	매입의뢰				
 UI_20150323_001360	{@st59}Close Buy-in Shop	{@st59}매입의뢰상점을 닫습니다.				
 UI_20150323_001361	{@st59}Buy-in Shop{nl} - Trade your items for silver	{@st59}매입의뢰상점{nl} - 내가 가진 물건을 실버로 교환할 수 있습니다.				
@@ -1402,7 +1402,7 @@ UI_20150323_001401	{@st41}Eat	{@st41}먹기
 UI_20150323_001402	{@st41}Craft	{@st41}제작				
 UI_20150323_001403	{@st41}Quantity	{@st41}제작 갯수				
 UI_20150323_001404	{@st41}Consumable Material	{@st41}소비 재료	UI_20150323_001293	Consumable Material	소비 재료	
-UI_20150401_001405	{@st59}Close{/}	{@st59}브리케팅을 닫습니다{/}				
+UI_20150401_001405	{@st59}Cerrar{/}	{@st59}브리케팅을 닫습니다{/}				
 UI_20150401_001406	{@st41}Remove Base Camp	{@st41}거점 해체				
 UI_20150401_001407	{@st43}[Circle %s]{/}	{@st43}[%s서클]{/}				
 UI_20150401_001408	{@st43}Skill{/}	{@st43}스킬{/}				
@@ -1429,7 +1429,7 @@ UI_20150401_001428	Estimated Balance	예상 잔액
 UI_20150401_001429	{@st45tw}Offering Box	{@st45tw}봉헌함				
 UI_20150401_001430	{@st41}Empty	{@st41}비우기				
 UI_20150401_001431	{@st43}Current zone user list{/}	{@st43}현재 존 유저 목록{/}				
-UI_20150401_001432	{@st59}Close{/}	{@st59}운영자 UI리스트를 닫습니다{/}				
+UI_20150401_001432	{@st59}Cerrar{/}	{@st59}운영자 UI리스트를 닫습니다{/}				
 UI_20150401_001433	{@st41}Party Description :	{@st41}파티 설명 :				
 UI_20150401_001434	{s20}Poison Amount {s28}{b}{#ff6600}%s	{s20}독의 양  {s28}{b}{#ff6600}%s				
 UI_20150401_001435	Materials for Poison	독 제조용 재료 아이템				
@@ -1474,7 +1474,7 @@ UI_20150406_001473	{@st41b}Available Items{/}	{@st41b}판매 등록 아이템{/}
 UI_20150406_001474	{@st41b}Total Sales	{@st41b}총 수입				
 UI_20150406_001475	{@st41b}Sell	{@st41b}판매				
 UI_20150406_001476	{@st59}Sell your item(s).{/}	{@st59}등록한 아이템을 판매합니다{/}				
-UI_20150406_001477	{@st59}Close{/}	{@st59}개인 창고를 닫습니다{/}				
+UI_20150406_001477	{@st59}Cerrar{/}	{@st59}개인 창고를 닫습니다{/}				
 UI_20150406_001478	{@st41b}%s silver is charged when storing and taking items from storage.{/}	{@st41b}창고에 물품을 보관하고 찾을시에 %s실버가 소모됩니다.{/}				
 UI_20150406_001479	{@st41b}Quantity	{@st41b}갯수				
 UI_20150414_001480	{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.	{@st42b}갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
@@ -1569,7 +1569,7 @@ UI_20150714_001568	{@st43}Open %s Shop {/}	{@st43}%s 상점 개설{/}
 UI_20150714_001569	{@st41b}Roasting{/}	{@st41b}로스팅{/}				
 UI_20150714_001570	{@st66}Select All	{@st66}전체 선택				
 UI_20150714_001571	{@st43}Craft Arrow{/}	{@st43}화살제작{/}				
-UI_20150714_001572	{@st59}Close{/}	{@st59} UI를 닫습니다{/}				
+UI_20150714_001572	{@st59}Cerrar{/}	{@st59} UI를 닫습니다{/}				
 UI_20150714_001573	{@st66b}Check{/}	{@st66b}확인{/}				
 UI_20150714_001574	{@st66b}Leave Helper(Requires %s TP){/}	{@st66b}헬퍼 남기기(NXP %s개 필요){/}				
 UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}				
@@ -1621,7 +1621,7 @@ UI_20150714_001620	{@st41b}Enhance	{@st41b}강화
 UI_20150714_001621	{@st66}Items requiring a repair	{@st66}수리 필요 아이템 목록				
 UI_20150714_001622	{@st43}Simoni	{@st43}시모니				
 UI_20150714_001623	{@st59}Increase skills{/}	{@st59}스킬을 올려주세요{/}				
-UI_20150714_001624	{@st59}Close{/}	{@st59}스킬과 특성을 닫습니다{/}				
+UI_20150714_001624	{@st59}Cerrar{/}	{@st59}스킬과 특성을 닫습니다{/}				
 UI_20150714_001625	{@st43}Skills & Attributes{/}	{@st43}스킬과 특성{/}				
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s	남은 스테이터스 포인트 {nl}{@st46}%s				
 UI_20150714_001627	Likes received : %s	내가 받은 좋아요! : %s개				
@@ -1700,10 +1700,10 @@ UI_20150717_001699	{@st42}My Summon Info	{@st42}내 소환수 정보
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}	{@st59}STA{nl}{@st59s}스태미나가 부족하면 이동이 느려집니다{/}				
 UI_20150717_001701	{@st59}Sort your inventory{/}	{@st59}인벤토리를 정렬합니다{/}				
 UI_20150717_001702	Sort	정리				
-UI_20150717_001703	{@st59}Close{/}	{@st59}조이패드 설명을 닫습니다.{/}				
-UI_20150717_001704	{@st59}Close{/}	{@st59}키보드 설명을 닫습니다.{/}				
+UI_20150717_001703	{@st59}Cerrar{/}	{@st59}조이패드 설명을 닫습니다.{/}				
+UI_20150717_001704	{@st59}Cerrar{/}	{@st59}키보드 설명을 닫습니다.{/}				
 UI_20150717_001705	Mouse Tutorial	마우스 튜토리얼				
-UI_20150717_001706	{@st59}Close{/}	{@st59}마우스 설명을 닫습니다.{/}				
+UI_20150717_001706	{@st59}Cerrar{/}	{@st59}마우스 설명을 닫습니다.{/}				
 UI_20150717_001707	Attack : %s	공격력 : %s				
 UI_20150717_001708	Defense : %s	방어력 : %s				
 UI_20150717_001709	STR : %s	힘 : %s				
@@ -1832,7 +1832,7 @@ UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}	{@st41b}변경{s18}(T
 UI_20151224_001832	Consume Quantity	소비 개수				
 UI_20151224_001833	Quantity Available	보유 개수				
 UI_20151224_001834	{@st43}Spell Sell Shop{/}	{@st43}주문 판매상점{/}	UI_20150428_001498	{@st43}Buy-in Shop{/}	{@st43}매입상점{/}	
-UI_20151224_001835	{@st59}Close{/}	{@st59}주문 판매상점을 닫습니다{/}				
+UI_20151224_001835	{@st59}Cerrar{/}	{@st59}주문 판매상점을 닫습니다{/}				
 UI_20151224_001836	{@st43}Spell Sell Shop	{@st43}주문 판매상점	UI_20150317_000065	{@st43}Buff Vending Machine	{@st43}버프 자판기	
 UI_20151224_001837	Spell Sell Shop	주문 판매상점	UI_20150317_000069	Buff Vending Machine	버프 자판기	
 UI_20151224_001838	{@st59}Close	{@st59}주문 판매상점을 닫습니다.	UI_20150317_000070	{@st59}Close	{@st59}버프 자판기를 닫습니다.	
@@ -1858,7 +1858,7 @@ UI_20151224_001857	{@st66b}Cooking	{@st66b}조리	UI_20150414_001491	{@st41b}Coo
 UI_20151224_001858	{@st66b}Food	{@st66b}음식	UI_20150414_001492	{@st41b}Food	{@st41b}음식	
 UI_20151224_001859	{@st66b}List	{@st66b}목록	UI_20150317_000214	{@st41b}List	{@st41b}목록	
 UI_20151224_001860	{@st66b}Manage	{@st66b}관리	UI_20150317_000215	{@st41b}Manage	{@st41b}관리	
-UI_20151224_001861	{@st59}Close{/}	{@st59}길드 정보를 닫습니다{/}				
+UI_20151224_001861	{@st59}Cerrar{/}	{@st59}길드 정보를 닫습니다{/}				
 UI_20151224_001862	{@st43}Guild{/}	{@st43}길드{/}				
 UI_20151224_001863	{@st41b}Basic Information	{@st41b}기본정보				
 UI_20151224_001864	{@st41b}Property	{@st41b}속성				
@@ -1871,7 +1871,7 @@ UI_20151224_001870	Summon	소환
 UI_20151224_001871	To Guild Member	길드원에게 가기				
 UI_20151224_001872	Go	가기				
 UI_20151224_001873	{@st43}History{/}	{@st43}히스토리{/}				
-UI_20151224_001874	{@st59}Close{/}	{@st59}히스토리 정보를 닫습니다.{/}				
+UI_20151224_001874	{@st59}Cerrar{/}	{@st59}히스토리 정보를 닫습니다.{/}				
 UI_20151224_001875	{@st45tw2}Category{/}	{@st45tw2}항목{/}				
 UI_20151224_001876	{@st45tw2}Variation Value{/}	{@st45tw2}변동값{/}				
 UI_20151224_001877	{@st45tw2}Time{/}	{@st45tw2}시간{/}				
@@ -1968,7 +1968,7 @@ UI_20151224_001967	{@st42}Duration: %s{/}	{@st42}사용기간 : %s{/}
 UI_20151224_001968	Removes the %s from{nl}your inventory, providing benefits for %s{nl}for this %s.{/}	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
 UI_20151224_001969	Removes the %s{nl}from your inventory and applies to this %s.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.	캐릭터 설정창에서 잔여시간을 확인하실 수 있습니다.{/}				
-UI_20151224_001971	{@st59}Close{/}	{@st59}TP SHOP을 닫습니다{/}				
+UI_20151224_001971	{@st59}Cerrar{/}	{@st59}TP SHOP을 닫습니다{/}				
 UI_20151224_001972	{@st43}{s18}Preview & Purchase	{@st43}{s18}미리보기 및 구매				
 UI_20151224_001973	Preview	미리보기				
 UI_20151224_001974	Equipped Items TP	착용 품목 TP				
@@ -1991,7 +1991,7 @@ UI_20151224_001990	{@st66b18}Change Lodge{/}	{@st66b18}숙소 변경{/}
 UI_20151224_001991	{@st66}A Team Name change costs 150 TP{/}	{@st66}※팀명 변경시 150TP가 소모됩니다.{/}				
 UI_20151224_001992	{@st59}Enter a name{/}	{@st59}원하시는 이름을 입력하세요{/}				
 UI_20151224_001993	{@st41b}Free TP{/}	{@st41b}무료 TP{/}				
-UI_20151224_001994	{@st59}Close{/}	{@st59}숙소 꾸미기를 닫습니다{/}	UI_20150317_000954	{@St59}Close{/}	{@st59}배럭 꾸미기를 닫습니다{/}	
+UI_20151224_001994	{@st59}Cerrar{/}	{@st59}숙소 꾸미기를 닫습니다{/}	UI_20150317_000954	{@St59}Cerrar{/}	{@st59}배럭 꾸미기를 닫습니다{/}	
 UI_20151224_001995	{@st43}Lodge Decoration{/}	{@st43}숙소 꾸미기{/}	UI_20150317_000955	{@St43}Lodge Decorating{/}	{@st43}배럭 꾸미기{/}	
 UI_20151224_001996	{@st41b}Lodge Visitation{/}	{@st41b}숙소방문{/}				
 UI_20151224_001997	{@st59}Visit the lodges of other players.{/}	{@st59}다른 사람의 숙소를 방문합니다.{/}				
@@ -2048,11 +2048,11 @@ UI_20151224_002047	Guild Skills & Information	길드 스킬 및 정보
 UI_20151224_002048	{@st42}%s Benefits{/}	{@st42}%s 혜택적용{/}				
 UI_20151224_002049	Benefits	혜택				
 UI_20160224_002050	Team Storage	팀 창고				
-UI_20160224_002051	{@st59}Close{/}	{@st59}팀 창고를 닫습니다{/}				
+UI_20160224_002051	{@st59}Cerrar{/}	{@st59}팀 창고를 닫습니다{/}				
 UI_20160224_002052	You can store tradable items, but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.	거래가 가능한 아이템만 보관할 수 있으며, 포텐셜 1이 감소합니다.{nl}팀 창고에서 아이템을 꺼낼 때는 아이템 갯수에 관계없이 거래 가능횟수가 1 차감됩니다.				
 UI_20160224_002053	Retrieve Item	아이템 수령				
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말{nl}답신 : /r 할말{nl} {nl}Tab키로 전환 가능	UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말	
-UI_20160224_002055	{@59}Close{/}	{@59}닫기{/}				
+UI_20160224_002055	{@59}Cerrar{/}	{@59}닫기{/}				
 UI_20160224_002056	Challenge	도전				
 UI_20160224_002057	Please choose to proceed	진행 여부를 선택하세요				
 UI_20160224_002058	{@st63_yellow}Abandoned :{/}	{@st63_yellow}포기 :{/}				
@@ -2060,10 +2060,10 @@ UI_20160224_002059	Receive a reward and leave.	보상을 획득하고 퇴장합�
 UI_20160224_002060	{@st63_yellow}Challenge :{/}	{@st63_yellow}도전 :{/}				
 UI_20160224_002061	Moving to the next floor	다음층으로 이동				
 UI_20160224_002062	{@st43}Relic Collector{/}	{@st43}유물 수집상{/}				
-UI_20160224_002063	{@st59}Close{/}	{@st59}유물 수집상을 닫습니다{/}				
+UI_20160224_002063	{@st59}Cerrar{/}	{@st59}유물 수집상을 닫습니다{/}				
 UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}	{@st59b}아이템 교환{nl}{@st59s} - 대지의 탑에서 아이템을 입수하여 교환 가능{nl} - 아이템 재료를 슬롯에 넣은 후 교환 실행{nl}{/}				
 UI_20160224_002065	F	층				
-UI_20160224_002066	{@st59}Close{/}	{@st59}큐브 획득 창을 닫습니다.{/}				
+UI_20160224_002066	{@st59}Cerrar{/}	{@st59}큐브 획득 창을 닫습니다.{/}				
 UI_20160224_002067	{@st59}Place an accessory{/}	{@st59}악세서리를 올려주세요{/}				
 UI_20160224_002068	{@st66b}Opening one more time costs silver.{/}	{@st66b}실버를 사용해서 1회 더 열 수 있습니다. {/}				
 UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}	{@st66b}토큰 혜택 적용시 2회까지 가능합니다.{/}				
@@ -2080,18 +2080,18 @@ UI_20160224_002079	{@st43}Guild Lv. %s{/}	{@st43}길드 Lv. %s{/}
 UI_20160224_002080	{@st66b}Upgrade & Rank	{@st66b}성장 및 랭크	UI_20151224_001866	{@st41b}Upgrade & Rank	{@st41b}성장 및 랭크	
 UI_20160224_002081	{@st66b}Guild Attributes	{@st66b}길드 특성	UI_20151224_001867	{@st41b}Guild Attributes	{@st41b}길드 특성	
 UI_20160224_002082	Guild Storage	길드 보관함				
-UI_20160224_002083	{@st59}Close{/}	{@st59}길드 보관함을 닫습니다{/}				
+UI_20160224_002083	{@st59}Cerrar{/}	{@st59}길드 보관함을 닫습니다{/}				
 UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.	* 이 아이템은 길드 마스터가 길드원에게 양도할 수 있고, 그 아이템은{nl}수령한 길드원에게 귀속됩니다.{nl}* 아이템은 메시지함에서 수령할 수 있습니다.				
 UI_20160224_002085	{@st41b}Enchant	{@st41b}마법 부여				
 UI_20160224_002086	{@st41b}Enchant Scroll{/}	{@st41b}마법 부여 스크롤{/}				
-UI_20160224_002087	{@st59}Close{/}	{@st59}마법 부여 스크롤 창을 닫습니다.{/}				
+UI_20160224_002087	{@st59}Cerrar{/}	{@st59}마법 부여 스크롤 창을 닫습니다.{/}				
 UI_20160224_002088	{@st66b}Consumes 1 Enchant Scroll{/}	{@st66b}마법부여 스크롤 1개가 소비됩니다.{/}				
 UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}	{@st42b}현재 스크롤 보유 개수 : %s개{/}				
 UI_20160224_002090	{@st66b}Missions{/}	{@st66b}의뢰소{/}	UI_20151224_001880	{@st66b}Request Office Mission{/}	{@st66b}의뢰소 미션{/}	
 UI_20160224_002091	{@st66b}Saalus Convent{/}	{@st66b}살러스 수녀원{/}				
 UI_20160224_002092	{@st66b}Earth Tower{/}	{@st66b}대지의 탑{/}				
 UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}	{@st59b}인스턴스 던전{nl}{@st59s}독립된 인스턴스 존에서 목표 달성을 위해 파티 단위로 진행하는 콘텐츠입니다.{nl}입장 전에 파티를 구성해 도전하거나 자동으로 파티를 찾아 도전할 수 있습니다.{nl} - 던전 : 각 레벨 대의 존에서 던전 입장  NPC를 통해 입장{nl} - 의뢰소 미션 : 페디미안 용병 의뢰소 접수원을 통해 입장{nl} - 살러스 수녀원 미션 : 살러스 수녀원에서 수녀 라사를 통해 입장{nl}{/}				
-UI_20160224_002094	{@st59}Close{/}	{@st59}인스턴스 던전을 닫습니다{/}				
+UI_20160224_002094	{@st59}Cerrar{/}	{@st59}인스턴스 던전을 닫습니다{/}				
 UI_20160224_002095	{@st59}Show/Do not show{/}	{@st59}보이기/안보이기{/}				
 UI_20160224_002096	{@st45tw2}Queuing Time{/}	{@st45tw2}대기 시간{/}				
 UI_20160224_002097	Bid	입찰	ETC_20150317_002986	Join	참가	
@@ -2195,7 +2195,7 @@ UI_20160520_002194	{@st42}Guild War	{@st42}길드 전쟁
 UI_20160520_002195	Declare Neutral	중립 선언				
 UI_20160603_002196	{@st66b}Skill Control Speed (%s){/}	{@st66b}스킬조작 속도 (%s){/}				
 UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면 {nl}장비 아이템의 거래 속성은 변경되지 않습니다.{nl}{#FFFF00}소비나 재료 아이템은 토큰여부와 상관없이 {nl}거래불가로 옵션이 조정됩니다.{/}	UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}	
-UI_20160617_002198	{@st59}Close{/}	{@st59}제작 UI를 닫습니다.{/}	UI_20150729_001739	{@st59}Close Arrow Crafting{/}	{@st59}화살제작을 닫습니다.{/}	
+UI_20160617_002198	{@st59}Cerrar{/}	{@st59}제작 UI를 닫습니다.{/}	UI_20150729_001739	{@st59}Close Arrow Crafting{/}	{@st59}화살제작을 닫습니다.{/}	
 UI_20160617_002199	{@st43}{s22}Team Level %s{/}	{@st43}{s22}팀 레벨  %s{/}				
 UI_20160622_002200	{@st41}Report{/}	{@st41}신고{/}				
 UI_20160622_002201	Report an item suspected of being used in a problematic trade.	증여 거래로 의심되는 아이템을 신고합니다.				
@@ -2211,7 +2211,7 @@ UI_20160711_002210	Receiving information.	정보를 받아오고 있습니다.
 UI_20160718_002211	Minimize Chat	채팅창 간략화				
 UI_20160718_002212	Chat Force Downscroll	채팅스크롤 강제 하단 이동				
 UI_20160718_002213	{@st43}Event Shop{/}	{@st43}이벤트 상점{/}				
-UI_20160718_002214	{@st59}Close{/}	{@st59}이벤트 상점을 닫습니다{/}	UI_20160224_002063	{@st59}Close{/}	{@st59}유물 수집상을 닫습니다{/}	
+UI_20160718_002214	{@st59}Cerrar{/}	{@st59}이벤트 상점을 닫습니다{/}	UI_20160224_002063	{@st59}Cerrar{/}	{@st59}유물 수집상을 닫습니다{/}	
 UI_20160718_002215	{@st41}Stat	{@st41}스탯	UI_20150406_001467	{@st41}Stat	{@st41}스텟	
 UI_20160718_002216	{@st59}Regional GvG	{@st59}통합 길드배틀				
 UI_20160718_002217	{@st43}Regional GvG Rankings	{@st43}통합 길드배틀랭킹{/}				
@@ -2323,7 +2323,7 @@ UI_20161005_002322	Change Appearance	외형 변경
 UI_20161005_002323	{@st45tw2}Material Weapon{/}	{@st45tw2}재료 무기{/}				
 UI_20161005_002324	{@st43}Enchant Armor{/}	{@st43}인챈트 아머{/}				
 UI_20161005_002325	{@st66b}Enchant{/}	{@st66b}마법부여{/}				
-UI_20161005_002326	{@st59}Close{/}	{@st59}코스튬 마법부여 UI를 닫습니다{/}				
+UI_20161005_002326	{@st59}Cerrar{/}	{@st59}코스튬 마법부여 UI를 닫습니다{/}				
 UI_20161005_002327	{img silver 20 20}Price	받는 가격{img silver 20 20}				
 UI_20161005_002328	 Store Name	 상점 이름				
 UI_20161005_002329	{@st66b}Shop{/}	{@st66b}상점{/}				
@@ -2343,7 +2343,7 @@ UI_20161005_002342	{@st42}Skill Settings{/}	{@st42}스킬 설정{/}
 UI_20161005_002343	{@st66b}Up to four Homonculus AI skills can be set.{nl}Once applied, the set skill cannot be changed.{/}	{@st66b}호문쿨루스 AI스킬은 4개까지 설정 가능하며,{nl} 한번 설정한 스킬은 변경되지 않습니다.{/}				
 UI_20161005_002344	Name{/}	이름{/}				
 UI_20161005_002345	Settings{/}	설정{/}				
-UI_20161005_002346	{@st59}Close{/}	{@st59}호문쿨루스 정보 UI를 닫습니다{/}				
+UI_20161005_002346	{@st59}Cerrar{/}	{@st59}호문쿨루스 정보 UI를 닫습니다{/}				
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}	{@st66d}한번 적용된 스킬은 변경하실 수 없습니다.{nl}진행하시겠습니까?{/}				
 UI_20161005_002348	A spell voucher that quickly{nl}defeats monsters within an instanced dungeon.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
 UI_20161005_002349	Instance Clear Voucher	인스턴스 던전 소탕권{/}				
@@ -2360,12 +2360,12 @@ UI_20161005_002359	{s16}{#000000}Friends Online %s/%s{/}	{s16}{#000000}접속중
 UI_20161005_002360	{@st43}Go to Friend{/}	{@st43}친구에게 가기{/}				
 UI_20161005_002361	{@st43}Portal	{@st43}포탈				
 UI_20161005_002362	{@st41b}Save Position	{@st41b}위치 저장				
-UI_20161005_002363	{@st59}Close{/}	{@st59}포탈 UI를 닫습니다.{/}				
+UI_20161005_002363	{@st59}Cerrar{/}	{@st59}포탈 UI를 닫습니다.{/}				
 UI_20161005_002364	{@st66b}Saved Portals: %s/%s{/}	{@st66b}포탈 저장 개수 %s/%s{/}				
 UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작				
 UI_20161005_002366	{@st43}Switch Gender Shop{/}	{@st43}스위치 젠더 상점{/}				
 UI_20161005_002367	{@st66b}Change{/}	{@st66b}변환{/}				
-UI_20161005_002368	{@st59}Close{/}	{@st59}스위치 젠더 UI를 닫습니다{/}				
+UI_20161005_002368	{@st59}Cerrar{/}	{@st59}스위치 젠더 UI를 닫습니다{/}				
 UI_20161005_002369	{img silver 20 20}Price 	받는 가격 {img silver 20 20} 				
 UI_20161005_002370	{@st41b}Open	{@st41b}열 기				
 UI_20161005_002371	Before{/}	현재{/}				
@@ -2445,7 +2445,7 @@ UI_20161108_002444	{@st43}%s obtained!{/}	{@st43}%s 획득!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s	{@st42b}축복받은 여신의 큐브 X %s 열기				
 UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기				
 UI_20161108_002447	{@st41}Open Compensation Cube	{@st41}보상 큐브 열기				
-UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}				
+UI_20161108_002448	{@st59}Cerrar{/}	{@st59}창을 닫습니다.{/}				
 UI_20161108_002449	{@st66b}Might obtain something mysterious{nl}when opened.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}				
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}	{@st41}입장 횟수 초기화 : 매일 6시{/}				
 UI_20161121_002451	Name/Location	이름/위치				
@@ -2468,7 +2468,7 @@ UI_20161121_002467	{@st66b}Cancel Queue	{@st66b}매칭 취소
 UI_20161121_002468	Entering now...	잠시 후 이동				
 UI_20161121_002469	{@st59}Close the Message.{/}	{@st59}메세지를 닫습니다.{/}				
 UI_20161214_002470	{@st43}Identify{/}	{@st43}감정{/}				
-UI_20161214_002471	{@st59}Close{/}	{@st59}감정 UI를 닫습니다{/}				
+UI_20161214_002471	{@st59}Cerrar{/}	{@st59}감정 UI를 닫습니다{/}				
 UI_20161214_002472	{@st66}List of Identifiable Items	{@st66}감정 필요 아이템 목록				
 UI_20161214_002473	{@st41b}Identification Cost{/}	{@st41b}감정 비용{/}				
 UI_20161214_002474	{@st41b}Identify{/}	{@st41b}감정 하기{/}				
@@ -2614,7 +2614,7 @@ UI_20170330_002613	{@st45tw2}Cancelled{/}	{@st45tw2}판매 취소{/}
 UI_20170330_002614	{@st45tw2}Others{/}	{@st45tw2}기타{/}				
 UI_20170330_002615	{@st42}Join	{@st42}참석하기				
 UI_20170330_002616	{@st42}Close	{@st42}닫기				
-UI_20170330_002617	{@st59}Close Message Box{/}	{@st59}메시지 함을 닫습니다{/}	UI_20150317_000017	{@st59}Close{/}	{@st59}경매장을 닫습니다{/}	
+UI_20170330_002617	{@st59}Close Message Box{/}	{@st59}메시지 함을 닫습니다{/}	UI_20150317_000017	{@st59}Cerrar{/}	{@st59}경매장을 닫습니다{/}	
 UI_20170330_002618	{#62100c}Untradable items: %s	{#62100c}거래불가 개수 : %s개	UI_20150918_001804	Total Untradable: %s	총 거래 불가: %s개	
 UI_20170330_002619	Tradability	거래 옵션				
 UI_20170330_002620	Shop	상점				
@@ -2984,7 +2984,7 @@ UI_20180115_002983	{@st66d_y}Items will become untradable{/}	{@st66d_y}거래 �
 UI_20180115_002984	{@st42}Items remain tradable and can be team storaged{/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
 UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
 UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
-UI_20180208_002987	{@st59}Close{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Close{/}	{@st59}클래스 정보 창을 닫습니다{/}	
+UI_20180208_002987	{@st59}Cerrar{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Cerrar{/}	{@st59}클래스 정보 창을 닫습니다{/}	
 UI_20180208_002988	Acquired Item	획득 아이템				
 UI_20180208_002989	Server	서버				
 UI_20180208_002990	Character Name	캐릭터명				
@@ -3022,7 +3022,7 @@ UI_20180320_003021	{@st43b}{s20}Failure Rate [%s%]{/}	{@st43b}{s20}실패확률 
 UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted and the Legend Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 레전드 카드의 레벨은 유지됩니다.{/}				
 UI_20180320_003023	{@st43b}{#898989}{s20}Destruction Rate[%s%]{/}	{@st43b}{#898989}{s20}파괴확률 [%s%]{/}				
 UI_20180320_003024	{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 레전드 카드와 제물 카드가 소멸됩니다.{/}				
-UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}				
+UI_20180320_003025	{@st59}Cerrar{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}				
 UI_20180320_003026	Time remaining	남은 참가 시간	UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간	
 UI_20180320_003027	Acquire random	랜덤 획득	UI_20160224_002099	Item Dice	아이템 주사위	
 UI_20180320_003028	{@st59}Personal Shops{/}	{@st59}개인 상점{/}				
@@ -3611,7 +3611,7 @@ UI_20190104_003610	Close the class change mode.	클래스 변경 모드를 종�
 UI_20190104_003611	{@st43}Select a class and click the Advance button.	{@st43}변경 할 클래스를 선택한 후에 전직하기 버튼을 눌러주세요.				
 UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}	{@st66b18}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
 UI_20190104_003613	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}컬렉션{nl}{@st59s} - 게임내 컬렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 컬렉션 덱 아이템 사용했을 경우 컬렉션 단축키가 활성화{nl}{/}	UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}	
-UI_20190104_003614	{@st59}Close{/}	{@st59}컬렉션 정보를 닫습니다{/}	UI_20150317_000131	{@st59}Close{/}	{@st59}콜렉션 정보를 닫습니다{/}	
+UI_20190104_003614	{@st59}Cerrar{/}	{@st59}컬렉션 정보를 닫습니다{/}	UI_20150317_000131	{@st59}Cerrar{/}	{@st59}콜렉션 정보를 닫습니다{/}	
 UI_20190104_003615	{@st43}Collection{/}	{@st43}컬렉션{/}	UI_20150317_000132	{@st43}Collection{/}	{@st43}콜렉션{/}	
 UI_20190104_003616	{@st68b}{s18}Collection{/}	{@st68b}{s18}컬렉션 상태{/}	UI_20170313_002538	{@st68b}{s18}Collection{/}	{@st68b}{s18}콜렉션 상태{/}	
 UI_20190104_003617	{@st59}Search the name of a collection or effect.{/}	{@st59}컬렉션 이름 또는 효과로 검색 합니다.{/}	UI_20170313_002544	{@st59}Search the name of a collection or effect.{/}	{@st59}콜렉션 이름 또는 효과로 검색 합니다.{/}	
